@@ -1,6 +1,6 @@
 {
   "name": "聊一聊我们的技术",
   "tagline": "",
-  "body": "\r\n# \r\n## \r\n### \r\n\r\n",
+  "body": "# 交流一下最近的bug吧。\r\n## 1，界面切换（有导航栏无tabBar的页面 和 无导航栏有tabBar页面）在pop过程中会有黑色的区域出现， 是tabBarController的颜色， 最终解决了。\r\n## 2，tableView中的headView的不悬挂问题， 调了好久也调通了。\r\n## 3，collectionView中headView的悬挂问题，是layout的问题，最后也搞了。\r\n## 4，最近搞了支付宝，微信支付，推送，分享， 可能分享还存在一点问题，分享到微博一直获取不到权限， 分享到扣扣和空间的两条路径，全部都是到扣扣的， 还在想办法，好了，该下班了。\r\n###* 欢迎大家交流技术  QQ：283140156\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
